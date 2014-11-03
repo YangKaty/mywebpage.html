@@ -1,2 +1,33 @@
 body {
-  background-color Teal; 
+  background-color: Teal;
+}
+h1 {
+  color: black;
+  text-align: center;
+  padding-top: 1em;
+  font-family: "Chiller";
+}
+
+p#alpha {
+      background-color: black;
+      font-size: x-large;
+
+  
+}
+p#bottom {
+  background-color: black;
+  font-size: x-large;
+  
+}
+
+p {
+  color: #FF7F24;
+  font-style: italic;
+  font-size: x-large;
+  background-color: black;
+  padding: 1em;
+  border-radius: 2em;
+  font-family: "Arial";
+  
+}
+
