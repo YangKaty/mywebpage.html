@@ -5,7 +5,7 @@
     <h1>Wonderland</h1> 
     <p id
   <head> 
-    
+    <link rel="stylesheet" type="text/css" href="mystylez" /> 
  
     
   </head> 
